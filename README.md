@@ -2,6 +2,7 @@
 A PostgreSQL database for a theatre and drama academy. It covers show ticketing, student enrolment in courses and classes, and staff records.
 
 What it includes
+
 11 tables covering customers, shows, show events, bookings, students, courses, classes and staff.
 Keys and constraints: primary and foreign keys, composite keys for many-to-many links, and checks for ticket limits (1 to 10), course levels, grades and salaries.
 Sample data: fictional shows, customers, students, staff and courses.
